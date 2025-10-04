@@ -1,0 +1,12 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "phone": "Phone",
+  "select_campus": "Select Your Campus",
+  "proceed_to_payment": "Proceed to Payment",
+  "total": "Total",
+  "add_to_cart": "Add to Cart",
+  "remove": "Remove",
+  "order_status": "Order Status",
+  "ready_pickup": "Show QR at cafeteria for pickup"
+}

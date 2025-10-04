@@ -1,0 +1,9 @@
+ITMO-Eats/frontend/
+├─ src/
+│  ├─ assets/               # sample images, logos, icons
+│  ├─ components/           # reusable components
+│  ├─ screens/              # all app screens
+│  ├─ redux/                # state management
+│  ├─ i18n/                 # language JSON files
+│  └─ App.js
+└─ package.json

@@ -1,0 +1,29 @@
+ITMO-Eats/
+│
+├─ backend/                  # Node.js + Express backend
+│  ├─ controllers/
+│  ├─ models/
+│  ├─ routes/
+│  ├─ utils/
+│  ├─ config.js
+│  ├─ server.js
+│  └─ package.json
+│
+├─ frontend/                 # React Native / Expo app
+│  ├─ src/
+│  │  ├─ screens/
+│  │  ├─ components/
+│  │  ├─ assets/             # images, icons
+│  │  ├─ i18n/               # language JSON files
+│  │  ├─ redux/               # state management
+│  │  └─ App.js
+│  └─ package.json
+│
+├─ admin/                     # Admin dashboard (React Web)
+│  ├─ src/
+│  └─ package.json
+│
+├─ db/                       # PostgreSQL schema + seed data
+│  └─ schema.sql
+│
+└─ README.md                  # Instructions to run + build
